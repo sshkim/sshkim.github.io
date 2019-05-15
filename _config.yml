@@ -9,8 +9,8 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: Centrarium
-subtitle: "A simple yet classy theme for your Jekyll website or blog"
+title: sshkim blog
+subtitle: "sshkim blog"
 email: sshkim88@gmail.com
 name: Seunghwan Kim
 description: >
