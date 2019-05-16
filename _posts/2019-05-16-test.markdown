@@ -1,3 +1,18 @@
+---
+layout: post
+title: '[test] 테스트'
+subtitle: '테스트!!!'
+date: 2019-05-16
+author: seunghwan kim
+cover: 'https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png'
+tags: test emoji google
+comments: true
+sitemap :
+  changefreq : daily
+  priority : 1.0
+---
+
+
 *테스트*
 
 블로그 테스트
